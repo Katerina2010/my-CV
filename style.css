@@ -48,7 +48,6 @@ body {
     width: 100%;
     display: flex;
     flex-direction: column;
-
 }
 .conteiner {
     border: 3px solid #5F9EA0;
@@ -73,7 +72,6 @@ body {
     padding: 20px 40px 0;
     background-color: white;
     border-bottom: 1px solid #5F9EA0;
-
 }
 .header-subtitle {
     float: right;
@@ -86,7 +84,6 @@ body {
     text-align: right;
     text-transform: capitalize;
     background-color: white;
-
 }
 .subtitle {
     padding-top: 0;
@@ -98,7 +95,6 @@ body {
 .header-contacts-title {
     float: left;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-
 }
 .header-contact-list {
     padding-left: 30px;
@@ -121,7 +117,6 @@ body {
 }
 .header-contact-list a {
     color: black;
-
 }
 .contact-mail {
     padding-left: 140px;
@@ -138,37 +133,6 @@ body {
 .contact-map {
     padding-left: 140px;
 }
-/*.menu {
-    display: flex;
-    width: 100%;
-    height: 30px;
-    position: sticky;
-    float: left;
-    align-items: center;
-    top: 0;
-    background-color: #5F9EA0;
-}
-.menu-list {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    list-style: none;
-}
-.menu-list li {
-    transition: 0.5s;
-}
-.menu-link {
-    font-size: 12px;
-    font-weight: bold;
-    position: relative;
-    padding: 0 10px;
-    text-decoration: none;
-    color: #17202a;
-    cursor: pointer;
-}
-.menu-list li:hover {
-    transform:scale(1.25);
-}*/
 .header-avatar {
     margin-top: -1px;
     flex: 0 1 30%;
@@ -189,22 +153,16 @@ body {
 .header-img:hover {
     transform:scale(1.15);
 }
-
-
 .main-content {
     flex: 0 1 70%;
     background-color: white;
 }
-
-
 .content {
     display: flex;
     width: 100%;
-    
 }
 .about, .skills {
     padding-top: 0px;
-
 }
 .about-experiance {
     display: flex;
@@ -213,7 +171,6 @@ body {
 .experience {
     display: flex;
     flex-direction: column;
-
 }
 .experience h2 {
 margin-bottom: 10px;
@@ -245,7 +202,6 @@ margin-bottom: 10px;
     align-content: stretch;
     justify-content: space-between;
     margin-left: 15px;
-
 }
 .company p {
     margin: 0px;
@@ -261,7 +217,6 @@ margin-bottom: 10px;
 .university {
     margin-top: 0px;
     width: 85%;
-    
 }
 .university h5 {
     margin: 20px 0px 11px 21px;
@@ -270,12 +225,10 @@ margin-bottom: 10px;
 .university p {
     margin: -15px 0 0 -30px;
 }
-
 .code {
     display: flex;
     flex-direction: column;
     width: 100%;
-    
 }
 .code h2 {
     margin-right: 30px;
@@ -286,42 +239,6 @@ margin-bottom: 10px;
     justify-content: center;
     margin-top: 15px;
 }
-
-
-/*.task {
-    display: block;
-    background-color: antiquewhite;
-    padding-right: 15px;
-    margin-left: 10px;
-    padding-top: 20px;
-    margin-bottom: 20px;
-    padding-left: 15px;
-}
-.task p {
-    margin-bottom: -20px;
-    padding-left: 25px;
-    text-decoration: none;
-}
-.task-img {
-    width: 300px;
-    height: 200px;
-}
-.task a p {
-    text-decoration: none;
-    color:#000;
-}*/
-
-
-
-
-
-
-
-
-
-
-
-
 .project {
     display: flex;
     width: 100%;
@@ -346,7 +263,6 @@ margin-bottom: 10px;
     justify-content:flex-start;
     margin-bottom: 0px;
     margin-left: 0px;
-
 }
 .itemImg {
     display: flex;
@@ -406,7 +322,6 @@ margin-bottom: 10px;
 .skills-list img {
     width: 20px;
     height: 20px;
-    
 }
 .skills-list img:nth-child(3),
 .skills-list img:first-child {
@@ -452,7 +367,6 @@ text-indent: 5px;
 .certifications {
     padding-top: 5px;
 }
-
 .courses {
     display: flex;
     width: 100%;
@@ -491,9 +405,6 @@ text-indent: 5px;
 .course-img:hover {
     transform: scale(1.15);
 }
-
-
-
 .footer {
     background-color: #5F9EA0;
 }
@@ -511,7 +422,6 @@ text-indent: 5px;
     display: flex;
     align-items:center;
     justify-content: space-between;
-
 }
 .footer-img {
 	border: 2px solid #8B8682;
@@ -550,7 +460,6 @@ h5 {
     font-style: bold;
     margin: 10px 0 5px 0;
 }
-
 h6 {
     font-size: 11.2px;
     font-style: bold;
